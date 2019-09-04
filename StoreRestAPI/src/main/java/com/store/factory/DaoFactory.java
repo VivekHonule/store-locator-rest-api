@@ -1,9 +1,9 @@
-package com.causecode.factory;
+package com.store.factory;
 
-import com.causecode.dao.StoreDao;
-import com.causecode.dao.StoreDataAccessible;
-import com.causecode.dao.ZipCodeDao;
-import com.causecode.dao.ZipCodeDataAccessible;
+import com.store.dao.StoreDao;
+import com.store.dao.StoreDataAccessible;
+import com.store.dao.ZipCodeDao;
+import com.store.dao.ZipCodeDataAccessible;
 
 public class DaoFactory 
 {

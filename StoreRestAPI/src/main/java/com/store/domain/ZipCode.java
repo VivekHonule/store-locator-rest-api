@@ -1,4 +1,4 @@
-package com.causecode.domain;
+package com.store.domain;
 
 import java.util.ArrayList;
 import java.util.List;

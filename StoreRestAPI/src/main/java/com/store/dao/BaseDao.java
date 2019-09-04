@@ -1,4 +1,4 @@
-package com.causecode.dao;
+package com.store.dao;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityTransaction;

@@ -1,4 +1,4 @@
-package com.causecode.dao;
+package com.store.dao;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,9 +6,9 @@ import java.util.List;
 import javax.persistence.EntityManager;
 import javax.persistence.Query;
 
-import com.causecode.domain.Store;
-import com.causecode.dto.StoreDTO;
-import com.causecode.dto.StoreDetailsDTO;
+import com.store.domain.Store;
+import com.store.dto.StoreDTO;
+import com.store.dto.StoreDetailsDTO;
 import com.vividsolutions.jts.geom.Point;
 
 

@@ -6,8 +6,8 @@
     
     <persistence-unit name="JPA">
     	<provider>org.hibernate.ejb.HibernatePersistence</provider>
-    	<class>com.causecode.domain.Store</class>
-    	<class>com.causecode.domain.ZipCode</class>
+    	<class>com.store.domain.Store</class>
+    	<class>com.store.domain.ZipCode</class>
     	
     	<properties>
     		<property name="hibernate.connection.driver_class" value="com.mysql.jdbc.Driver"/>

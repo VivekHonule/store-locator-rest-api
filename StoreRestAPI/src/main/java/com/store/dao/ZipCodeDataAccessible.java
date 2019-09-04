@@ -1,6 +1,6 @@
-package com.causecode.dao;
+package com.store.dao;
 
-import com.causecode.domain.ZipCode;
+import com.store.domain.ZipCode;
 
 public interface ZipCodeDataAccessible 
 {

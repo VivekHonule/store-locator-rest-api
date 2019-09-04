@@ -1,10 +1,10 @@
-package com.causecode.service;
+package com.store.service;
 
 import java.util.List;
 
-import com.causecode.domain.ZipCode;
-import com.causecode.dto.StoreDTO;
-import com.causecode.dto.StoreDetailsDTO;
+import com.store.domain.ZipCode;
+import com.store.dto.StoreDTO;
+import com.store.dto.StoreDetailsDTO;
 import com.vividsolutions.jts.geom.Point;
 import com.vividsolutions.jts.io.ParseException;
 

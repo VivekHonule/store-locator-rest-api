@@ -1,7 +1,7 @@
-package com.causecode.factory;
+package com.store.factory;
 
-import com.causecode.service.StoreService;
-import com.causecode.service.StoreServiceable;
+import com.store.service.StoreService;
+import com.store.service.StoreServiceable;
 
 public class ServiceFactory 
 {

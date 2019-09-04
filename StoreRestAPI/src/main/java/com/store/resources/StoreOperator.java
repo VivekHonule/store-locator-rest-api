@@ -1,4 +1,4 @@
-package com.causecode.resources;
+package com.store.resources;
 
 import java.util.List;
 
@@ -9,10 +9,10 @@ import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import com.causecode.dto.StoreDTO;
-import com.causecode.dto.StoreDetailsDTO;
-import com.causecode.factory.ServiceFactory;
-import com.causecode.service.StoreServiceable;
+import com.store.dto.StoreDTO;
+import com.store.dto.StoreDetailsDTO;
+import com.store.factory.ServiceFactory;
+import com.store.service.StoreServiceable;
 import com.vividsolutions.jts.io.ParseException;
 
 

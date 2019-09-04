@@ -1,9 +1,9 @@
-package com.causecode.dao;
+package com.store.dao;
 
 import javax.persistence.EntityManager;
 import javax.persistence.Query;
 
-import com.causecode.domain.ZipCode;
+import com.store.domain.ZipCode;
 
 public class ZipCodeDao extends BaseDao implements ZipCodeDataAccessible
 {

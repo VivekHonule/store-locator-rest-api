@@ -1,4 +1,4 @@
-package com.causecode.dto;
+package com.store.dto;
 
 public class StoreDetailsDTO 
 {
